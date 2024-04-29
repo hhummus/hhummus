@@ -4,7 +4,6 @@
 #### About me
 - I'm a frotend programmer interested in all things tech. 
 - My dream is to build educational games with other passionate people in the field. 
-- I'm 30 and I live in Oslo.
 
 #### Contact
 You can contact me on
